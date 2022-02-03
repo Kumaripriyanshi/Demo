@@ -20,3 +20,16 @@ git log
 rm -rf .git---------remove a git repository
 
  git clone https://github.com/Kumaripriyanshi/Collections-Framework.git
+
+
+git remote
+
+
+git remote add origin https://github.com/Kumaripriyanshi/Demo.git
+
+
+git remote -v
+
+git push -u origin master
+
+
