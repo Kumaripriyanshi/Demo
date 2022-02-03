@@ -1,0 +1,22 @@
+git config --global user.name"priyanshi"
+
+ git config user.name
+
+ git config --list
+
+git status
+
+git init(make a repo)
+
+
+git init
+
+ git add --a
+git commit -m"initial commit"
+git log
+ git add ggg.txt
+
+
+rm -rf .git---------remove a git repository
+
+ git clone https://github.com/Kumaripriyanshi/Collections-Framework.git
